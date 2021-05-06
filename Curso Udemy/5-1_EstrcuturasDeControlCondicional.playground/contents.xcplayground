@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Operadores Lógicos'/>
+        <page name='If - Else'/>
+        <page name='Switch'/>
+        <page name='For in'/>
+        <page name='While'/>
+        <page name='Repeat While'/>
+    </pages>
+</playground>

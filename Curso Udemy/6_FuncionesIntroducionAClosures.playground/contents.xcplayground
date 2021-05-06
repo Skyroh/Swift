@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Funciones sin párametros'/>
+        <page name='Funciones de un solo párametro'/>
+        <page name='Funciones con múltiples parámetros y valor de retorno'/>
+        <page name='Valores por Default'/>
+        <page name='Múltiples retornos'/>
+        <page name='Nombre a parámetros externos'/>
+        <page name='Introducción a los Closures'/>
+    </pages>
+</playground>
